@@ -6,17 +6,23 @@ Uma interface estática de feed social criada para praticar composição de cart
   <img src="./docs/media/preview.png" alt="Pré-visualização do Social Feed Layout" width="900" />
 </a>
 
+---
+
 ## O que foi construído
 
 - Feed com três publicações e respetivos autores.
 - Estrutura semântica com navegação, conteúdo principal e cartões de publicação.
 - Layout adaptável a diferentes larguras de ecrã.
 
+---
+
 ## O que aprofundei
 
 - Organização de uma página com elementos semânticos como `nav`, `section` e `article`.
 - Composição de cartões com imagens de perfil, conteúdo visual e ações.
 - Responsividade e controlo de espaçamentos para manter a leitura confortável em vários ecrãs.
+
+---
 
 ## Tecnologias
 
@@ -25,11 +31,29 @@ Uma interface estática de feed social criada para praticar composição de cart
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
 </div>
 
+---
+
 ## Como executar
 
 Não requer instalação. Abra o ficheiro `index.html` no navegador.
+
+---
 
 ## Nota
 
 Este é um projeto de prática de front-end; as ações de “Curtir” e “Responder” são apenas visuais.
 
+---
+
+## Contacto
+
+<a href="https://www.linkedin.com/in/belarmino-sacate-1b830037b/">
+  <img align="center" alt="LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+  LinkedIn Profile
+</a>
+<br>
+<br>
+<a href="mailto:belarmino.s.bs@gmail.com">
+  <img align="center" alt="Gmail" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+  belarmino.s.bs@gmail.com
+</a>
