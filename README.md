@@ -45,7 +45,7 @@ Este é um projeto de prática de front-end; as ações de “Curtir” e “Res
 
 ---
 
-## Contacto
+## Contactos
 
 <a href="https://www.linkedin.com/in/belarmino-sacate-1b830037b/">
   <img align="center" alt="LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
